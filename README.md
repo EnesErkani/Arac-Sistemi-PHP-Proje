@@ -10,9 +10,9 @@ Bu proje, kullanıcıların kendi araç ilanlarını oluşturabildiği, güncell
 
 Projenin nasıl çalıştığını, arayüzünü ve temel özelliklerini aşağıdaki videodan izleyebilirsiniz:
 
-[![Proje Tanıtım Videosu]((https://youtu.be/iHOZfFrCkhU?si=hynVCd_71pr9wRTi))
-*(Yukarıdaki linke tıklayarak YouTube üzerinden izleyebilirsiniz)*
+[![Proje Tanıtım Videosu](https://img.youtube.com/vi/iHOZfFrCkhU/maxresdefault.jpg)](https://youtu.be/iHOZfFrCkhU)
 
+*(Yukarıdaki görsele tıklayarak YouTube üzerinden izleyebilirsiniz)*
 ## 🎯 Projenin Amacı
 Geleneksel ve karmaşık ilan sistemlerinin aksine, kullanıcı deneyimini ön planda tutarak; araç bilgilerinin standardize edildiği, ilişkisel veritabanı mantığıyla kurgulanmış hızlı ve güvenilir bir platform sunmaktır.
 

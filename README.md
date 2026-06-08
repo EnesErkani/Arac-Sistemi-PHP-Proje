@@ -10,7 +10,7 @@ Bu proje, kullanıcıların kendi araç ilanlarını oluşturabildiği, güncell
 
 Projenin nasıl çalıştığını, arayüzünü ve temel özelliklerini aşağıdaki videodan izleyebilirsiniz:
 
-[![Proje Tanıtım Videosu]([](https://youtu.be/iHOZfFrCkhU?si=hynVCd_71pr9wRTi))
+[![Proje Tanıtım Videosu]((https://youtu.be/iHOZfFrCkhU?si=hynVCd_71pr9wRTi))
 *(Yukarıdaki linke tıklayarak YouTube üzerinden izleyebilirsiniz)*
 
 ## 🎯 Projenin Amacı

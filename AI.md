@@ -20,7 +20,7 @@ Cevap: Bu yöntemi kullanırsan veritabanında gereksiz veri tekrarı oluşur. B
 GÖREV 4: Kod Tekrarını Önleme
 Prompt: Tüm sayfalara aynı navigasyon (navbar) HTML kodunu kopyalayıp yapıştırıyorum. Bunu düzeltmenin daha kolay bir yolu var mı?
 
-Cevap: Her sayfaya aynı kodu kopyalamak spagetti kod üretir ve yönetimini imkansız hale getirir. Bunun yerine 'navbar.php' adında bir dosya oluşturup ortak menü kodunu oraya almalısın. Ardından diğer sayfalarda PHP'nin 'include' fonksiyonunu kullanarak bu dosyayı çağırmalısın. Ayrıca hangi sayfada olduğunu belirlemek için '$_SERVER['PHP_SELF']' komutunu kullanarak aktif linki vurgulayan dinamik bir yapı kurabilirsin.
+Cevap: Her sayfaya aynı kodu kopyalamak spagetti kod üretir ve yönetimini imkansız hale getirir. Bunun yerine 'navbar.php' adında bir dosya oluşturup ortak menü kodunu oraya almalısın. Ardından diğer sayfalarda PHP'nin 'include' fonksiyonunu kullanarak bu dosyayı çağırmalısın. Ayrıca hangi sayfada olduğunu belirlemek için '$_SERVER['PHP_SELF']'  komutunu kullanarak aktif linki vurgulayan dinamik bir yapı kurabilirsin.
 
 GÖREV 5: Güvenlik ve Şifre Yönetimi
 Prompt: Profil ekranına şifre değiştirme bölümü ekledim. Güvenlik için kullanıcıdan eski şifresini istemem ve doğrulamam gerekiyor. Bunu nasıl kurgularım?

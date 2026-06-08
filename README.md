@@ -7,9 +7,15 @@
 Bu proje, kullanıcıların kendi araç ilanlarını oluşturabildiği, güncelleyebildiği ve detaylı filtreleme seçenekleriyle tüm piyasadaki araçları arayabildiği modern, nesne yönelimli (OOP) mimariye sahip bir web uygulamasıdır.
 
 ## 🎥 Demo ve Tanıtım
+
+
 ## 🚀 Canlı Demo
 
-Projeyi canlı ortamda test etmek için [Buraya Tıklayarak İnceleyebilirsiniz](http://95.130.171.20/~st24360859060/login.php).
+
+
+** Projeyi canlı ortamda test etmek için [Buraya Tıklayarak İnceleyebilirsiniz](http://95.130.171.20/~st24360859060/login.php). **
+
+
 
 Projenin nasıl çalıştığını, arayüzünü ve temel özelliklerini aşağıdaki videodan izleyebilirsiniz:
 
